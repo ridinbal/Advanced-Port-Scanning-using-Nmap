@@ -1,5 +1,4 @@
 # Advanced-Port-Scanning-using-Nmap
-Advanced Port scanning using Nmap
 
 This project focuses on advanced port scanning using the Nmap tool. Port scanning involves examining a network to identify active ports, which can be open or unfiltered. It also helps determine the presence of firewalls and provides information about the application using a specific port, including its version, services, and protocol.
 
